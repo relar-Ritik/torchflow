@@ -1,6 +1,6 @@
 
 # TorchFlow 
-[Link to Documentation](https://mlh-fellowship.github.io/torchblaze/)
+[Link to Documentation](https://aayush-fadia.github.io/torchflow/)
 ---
 
 A CLI-based python package that provides a suite of functionalities to perform end-to-end ML using PyTorch. 
