@@ -1,12 +1,12 @@
 module.exports = {
   title: 'TorchBlaze',
   tagline: 'The only MLOps tool you\'ll need, from training to deployment.',
-  url: 'https://github.com/MLH-Fellowship.github.io',
+  url: 'https://github.com/aayush-fadia.github.io',
   baseUrl: '/torchblaze/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/blaze.svg',
-  organizationName: 'MLH-Fellowship', // Usually your GitHub org/user name.
+  organizationName: 'aayush-fadia', // Usually your GitHub org/user name.
   projectName: 'torchflow', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -24,7 +24,7 @@ module.exports = {
         },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/MLH-Fellowship/torchblaze',
+          href: 'https://github.com/aayush-fadia/torchflow',
           label: 'GitHub',
           position: 'right',
         },
@@ -67,7 +67,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/MLH-Fellowship/torchblaze',
+              href: 'https://github.com/aayush-fadia/torchflow',
             },
           ],
         },
