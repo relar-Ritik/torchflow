@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{83:function(o){o.exports=JSON.parse('{"allTagsPath":"/torchflow/blog/tags","slug":"pytorch","name":"pytorch","count":1,"permalink":"/torchflow/blog/tags/pytorch"}')}}]);

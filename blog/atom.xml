@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/aayush-fadia.github.io/blog</id>
+    <title>TorchBlaze Blog</title>
+    <updated>2021-04-11T04:47:20.384Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/aayush-fadia.github.io/blog"/>
+    <subtitle>TorchBlaze Blog</subtitle>
+    <icon>https://github.com/aayush-fadia.github.io/img/blaze.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon!]]></title>
+        <id>Wait</id>
+        <link href="https://github.com/aayush-fadia.github.io/torchflow/blog/Wait"/>
+        <updated>2021-04-11T04:47:20.384Z</updated>
+        <summary type="html"><![CDATA[Stay tuned! Some examples to be added here soon!]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{74:function(e){e.exports=JSON.parse('{"allTagsPath":"/torchflow/blog/tags","slug":"deep-learning","name":"deep learning","count":1,"permalink":"/torchflow/blog/tags/deep-learning"}')}}]);
