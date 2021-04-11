@@ -1,0 +1,11 @@
+e
+.env
+.build
+.dist
+.vscode
+*.pyc
+.torchblaze.egg-info
+*.pyo
+torchblaze/template_files/data
+torchblaze/template_files/torch_template/__pycache__
+torchblaze/template_files/torch_template/*.pt
